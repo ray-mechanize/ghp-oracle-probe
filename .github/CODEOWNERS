@@ -1,0 +1,4 @@
+* @ray-mechanize
+***/*.rb @ray-mechanize
+*.js @ray-mechanize
+*.txt docs@
