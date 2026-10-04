@@ -1,0 +1,5 @@
+# owners
+
+* @ray-mechanize
+*.js @ray-mechanize # inline
+/docs/ @ray-mechanize
